@@ -1,0 +1,1 @@
+este archivo se llama datosucc.txt y lo hice dentro del repo llamado practico-finalll en github
